@@ -1,8 +1,14 @@
 # This is my first React.js project.
----
+
 
 ## Instructions
-### Just run `npm install .` within the `/Learning-ReactJS` folder. Then type `npm start` to run this project.
+
+
+#### If you want to edit this project, you can run this command.
+#### `git clone https://github.com/Neil-Lunavat/Learning-ReactJS.git`
+
+
+#### If you want to view the website, click [here](https://neil-lunavat.github.io/Learning-ReactJS/).
 
 ---
 
