@@ -1,18 +1,21 @@
-# This is my first React.js project.
+# Learning ReactJS
 
+#### Note: You need to have [Node Package Manager (npm)](https://nodejs.org/en/) installed on your system
+
+---
 
 ## Instructions
 
+***If you want to view the website, click [here](https://neil-lunavat.github.io/Learning-ReactJS/).***
 
-#### If you want to edit this project, you can run this command.
+#### To clone this repository, run the following command(s).
+
 #### `git clone https://github.com/Neil-Lunavat/Learning-ReactJS.git`
 
+#### `npm install .`
 
-#### If you want to view the website, click [here](https://neil-lunavat.github.io/Learning-ReactJS/).
-
----
-
-Probably not gonna be on my portfolio but looks good to me.
-***Anyways, thanks for viewing!***
+#### All the dependances will be automatically installed.
 
 ---
+
+### Thanks for viewing!
